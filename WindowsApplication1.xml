@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication1
+</name>
+</assembly>
+<members>
+<member name="M:WindowsApplication1.UserControl1.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WindowsApplication1.UserControl1">
+	<summary>
+UserControl1
+</summary>
+</member><member name="M:WindowsApplication1.UserControl2.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WindowsApplication1.UserControl2">
+	<summary>
+UserControl2
+</summary>
+</member>
+</members>
+</doc>

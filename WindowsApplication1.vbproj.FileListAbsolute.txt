@@ -1,0 +1,41 @@
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\UserControl1.baml
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\UserControl1.g.vb
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1_MarkupCompile.cache
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.g.resources
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ЖЕР\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\UserControl1.baml
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\UserControl1.g.vb
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1_Content.g.vb
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1_MarkupCompile.cache
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.g.resources
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Explorer1.resources
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\UserControl2.baml
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\UserControl2.g.vb
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.application
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\Users\ЖЕР\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
